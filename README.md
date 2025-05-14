@@ -3,6 +3,7 @@
 Welcome to the **Tourism Places in India** project! 🇮🇳✨
 
 This static website highlights the beauty and diversity of India's top tourist destinations. It includes smooth navigation, engaging content, and a clean user interface.
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=praveenkumarkota-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🔗 Live Website  
