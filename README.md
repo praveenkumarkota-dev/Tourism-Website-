@@ -36,12 +36,6 @@ This static website highlights the beauty and diversity of India's top tourist d
 
 ---
 
-## 📸 Preview
-
-![Tourism India Preview](https://user-images.githubusercontent.com/Screenshot_0.png)
-
----
-
 ## 🚀 Live Demo
 
 👉 [Visit Live Site](https://praveenkumarkota-dev.github.io/tourism-places-in-india/)
