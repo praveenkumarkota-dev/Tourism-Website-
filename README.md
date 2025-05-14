@@ -26,13 +26,13 @@ This static website highlights the beauty and diversity of India's top tourist d
 ## 📸 Screenshots
 
 ## 🏠 Home Page
-![Home Page](./screenshots/Screenshot_0.png)
+![Home Page](./Screenshot_0.png)
 
 ## 🗺️ Destinations Page
-![Destinations Page](./screenshots/Screenshot_2.jpg)
+![Destinations Page](./Screenshot_2.jpg)
 
 ## 📱 Mobile View
-![Mobile View](./screenshots/Screenshot_1.jpg)
+![Mobile View](./Screenshot_1.jpg)
 
 ---
 
