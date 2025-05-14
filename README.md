@@ -17,7 +17,7 @@ Explore the most beautiful places across India with this static website. Built u
 ---
 
 ## 🖼️ Project Preview  
-![Website Screenshot](./Screenshot_1.jpg)
+![Website Screenshot](./Screenshot_0.png)
 
 ---
 
