@@ -3,6 +3,10 @@
 Welcome to the **Tourism Places in India** project! 🇮🇳✨
 
 This static website highlights the beauty and diversity of India's top tourist destinations. It includes smooth navigation, engaging content, and a clean user interface.
+![Visitor Count](https://komarev.com/ghpvc/?username=praveenkumarkota-dev&label=Profile%20Views&color=0e75b6&style=flat)
+
+## 🔗 Live Website  
+[Click to View](https://praveenkumarkota-dev.github.io/tourism-places-in-india/)
 
 ---
 
@@ -23,22 +27,8 @@ This static website highlights the beauty and diversity of India's top tourist d
 
 ---
 
-## 📸 Screenshots
-
-## 🏠 Home Page
-![Home Page](./Screenshot_0.png)
-
-## 🗺️ Destinations Page
-![Destinations Page](./Screenshot_2.jpg)
-
-## 📱 Mobile View
-![Mobile View](./Screenshot_1.jpg)
-
----
-
-## 🚀 Live Demo
-
-👉 [Visit Live Site](https://praveenkumarkota-dev.github.io/tourism-places-in-india/)
+## 🖼️ Project Preview  
+![Website Screenshot](./Screenshot_0.png)
 
 ---
 
@@ -52,6 +42,17 @@ This static website highlights the beauty and diversity of India's top tourist d
 ├── styles.css
 └── images/
 ```
+
+---
+
+## 📌 GitHub Repository
+
+🔗 [View Code on GitHub](https://github.com/praveenkumarkota-dev/tourism-places-in-india)
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenkumarkota-dev&show_icons=true&theme=radical)
 
 ---
 
